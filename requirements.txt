@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+torch
+torchvision
+datasets
+scikit-learn
+codecarbon
+psutil
+thop
+nvidia-ml-py

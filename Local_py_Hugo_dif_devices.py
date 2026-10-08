@@ -79,7 +79,7 @@ EPOCHS = 5
 
 LEARNING_RATE = 0.001
 
-NUM_WORKERS = 2
+NUM_WORKERS = 0
 
 DATASET_NAME = "hf-vision/chest-xray-pneumonia"
 

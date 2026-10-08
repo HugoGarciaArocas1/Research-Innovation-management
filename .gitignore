@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Salidas del experimento
+results/
+emissions.csv
+emissions_*.csv
+powermetrics_log.txt
+
+# Editores
+.idea/
+.vscode/
+*.swp
